@@ -1,0 +1,43 @@
+body{
+    
+    background-color: rgb(227, 182, 98);
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+
+}
+    
+    #label{
+
+    font-size: 10em;
+    font-family: "Helvetica";
+    display: block;
+    text-align: center;
+    box-shadow: 10px 5px 5px white;
+}
+
+#btn-container{
+
+    text-align: center;
+
+}
+
+.btns{
+
+    font-size: 2em;
+    padding: 10px;
+    margin: 15px;
+    font-family: "Kenia";
+    background-color: rgb(225, 175, 81); 
+    color: rgb(13, 12, 12);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 10px 5px 5px black;
+    
+}
+
+.btns:hover{
+
+    background-color: rgb(219, 147, 12);
+    color: rgb(7, 6, 6);
+    font-weight: bold;
+}
